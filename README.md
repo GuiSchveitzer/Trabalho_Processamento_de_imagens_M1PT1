@@ -176,9 +176,3 @@ O projeto implementa **TODOS** os algoritmos solicitados no Trabalho M1:
   3. Aplica as mesmas operações nas versões em tons de cinza
 - **Visualização:** 12 janelas (6 coloridas + 6 tons de cinza)
 - **Salvamento:** 10 arquivos (4 coloridos + 4 tons de cinza + 2 originais cinza)
-
----
-
-**Autor:** 
-**Disciplina:** Processamento Digital de Imagens  
-**Semestre:** 6º Semestre
