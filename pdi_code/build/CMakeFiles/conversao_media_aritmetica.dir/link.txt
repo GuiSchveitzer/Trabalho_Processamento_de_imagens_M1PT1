@@ -1,0 +1,3 @@
+C:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\conversao_media_aritmetica.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\conversao_media_aritmetica.dir/objects.a @CMakeFiles\conversao_media_aritmetica.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -Wl,--whole-archive CMakeFiles\conversao_media_aritmetica.dir/objects.a -Wl,--no-whole-archive -o conversao_media_aritmetica.exe -Wl,--out-implib,libconversao_media_aritmetica.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\conversao_media_aritmetica.dir\linkLibs.rsp

@@ -1,0 +1,11 @@
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/pdi_code.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/conversao_media_aritmetica.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/conversao_media_ponderada.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/operacoes_aritmeticas_escalar.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/operacoes_aritmeticas_imagem.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/limiarizacao.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/isolamento_canais.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/histograma.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/inverso_imagem.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Desktop/Faculdade/Repositorio_De_Listas_e_Trabalhos_CC/6_Semestre/Processamento_de_Imagens/TrabalhoM1/pdi_code/build/CMakeFiles/rebuild_cache.dir

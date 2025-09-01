@@ -1,0 +1,3 @@
+C:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\inverso_imagem.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\inverso_imagem.dir/objects.a @CMakeFiles\inverso_imagem.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -Wl,--whole-archive CMakeFiles\inverso_imagem.dir/objects.a -Wl,--no-whole-archive -o inverso_imagem.exe -Wl,--out-implib,libinverso_imagem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\inverso_imagem.dir\linkLibs.rsp
